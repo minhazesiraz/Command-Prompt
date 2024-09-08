@@ -1,0 +1,3 @@
+@echo off
+start cmd /k "cd /d F:\ReactJS\Backend Developer\coffee-client-atlas && code . && npm run dev"
+start cmd /k "cd /d F:\ReactJS\Backend Developer\coffee-server-atlas && code . && nodemon index.js"
